@@ -52,7 +52,7 @@ This notebook includes the implementation of both the supervised and semi-superv
 This notebook extracts the images required for the project from the original Places365-Standard dataset, which can be downloaded from [this link](http://places2.csail.mit.edu/download-private.html). The extracted images are then organized into two folders: `test` and `train_val`.
 
 ### image_preprocessing.ipynb
-This notebook handles the preprocessing of images, including splitting the `train_val` folder into training and validation sets and augmenting the training set. The sections in this notebook are highly descriptive, making the preprocessing steps easy to follow.
+This notebook handles the preprocessing of images, including splitting the `train_val` folder into training and validation sets and augmenting the training set. 
 
 ## Acknowledgements
 
