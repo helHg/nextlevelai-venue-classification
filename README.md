@@ -6,7 +6,6 @@ This repository contains the code and resources for the Image Classification Pro
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
-- [Installation](#installation)
 - [Notebooks](#notebooks)
 - [Acknowledgements](#acknowledgements)
 
@@ -24,15 +23,6 @@ The main objective of this project is to classify images into one of five classe
   - `decision_tree_models.ipynb`: Contains the implementation of the supervised and semi-supervised Decision Tree models.
   - `image_preprocessing.ipynb`: Contains the code for splitting the `train_val` folder and augmenting the training set.
   - `project_raw_dataset_creation.ipynb`: Extracts the necessary images from the original Places365-Standard dataset and organizes them into `test` and `train_val` folders.
-
-## Installation
-
-To install the required libraries, use the following command:
-```bash
-pip install -r requirements.txt
-```
-
-This will install all the necessary dependencies specified in the `requirements.txt` file.
 
 ## Notebooks
 
